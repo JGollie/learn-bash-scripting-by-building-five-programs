@@ -23,3 +23,7 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello bash
 touch questionnaire.sh
+sh questionnre.sh
+sh questionnree.sh
+sh questionnre.sh
+sh questionnaire.sh
