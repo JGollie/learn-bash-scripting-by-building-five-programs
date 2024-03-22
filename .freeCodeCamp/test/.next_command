@@ -50,3 +50,10 @@ echo --help
 __vsc_prompt_cmd_original
 man echo
 ./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
+__vsc_prompt_cmd_original
+./questionnaire.sh
