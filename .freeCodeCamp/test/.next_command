@@ -176,3 +176,4 @@ print $J
 echo $J
 declare -p
 declare -p J
+declare -p RANDOM
