@@ -122,3 +122,4 @@ help [[
 __vsc_prompt_cmd_original
 ./countdown.sh
 help
+./countdown.sh 10
