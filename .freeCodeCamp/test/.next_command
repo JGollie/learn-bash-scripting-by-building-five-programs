@@ -114,3 +114,4 @@ help test
 [[ -n bad_file.txt ]]
 [[ -a bad_file.txt ]]
 [[ -x countdown.sh ]]
+help [[
