@@ -15,6 +15,7 @@ I=$1
     do
         echo $I
         (( I-- ))
+        sleep 1
     done
 else
     echo Include a positive integer as the first argument.
