@@ -79,3 +79,4 @@ help if
 ./countdown.sh arg2
 ./countdown.sh arg2
 ./countdown.sh arg2
+__vsc_prompt_cmd_original
