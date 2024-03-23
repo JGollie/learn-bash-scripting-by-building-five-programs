@@ -81,3 +81,4 @@ help if
 ./countdown.sh arg2
 __vsc_prompt_cmd_original
 ./countdown.sh 4
+./countdown.sh 5
