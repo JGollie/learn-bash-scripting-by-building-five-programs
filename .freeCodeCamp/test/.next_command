@@ -75,3 +75,4 @@ help
 __vsc_prompt_cmd_original
 man if
 help if
+./countdown.sh arg1
