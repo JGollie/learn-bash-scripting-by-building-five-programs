@@ -97,3 +97,4 @@ help test
 __vsc_prompt_cmd_original
 ./countdown.sh [[ 4 -le 5 ]]
 [[ 4 -le 5 ]]
+echo $?
