@@ -105,3 +105,4 @@ echo $?
 [[ 10 != 5 ]]
 [[ 10 -ne 5 ]]
 bad_command
+__vsc_prompt_cmd_original
