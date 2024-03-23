@@ -86,3 +86,5 @@ __vsc_prompt_cmd_original
 help -lt
 -lt --help
 help
+help expressions
+help [[ expression ]]
