@@ -88,3 +88,8 @@ help -lt
 help
 help expressions
 help [[ expression ]]
+help expression
+info expresssions
+info expression
+help expression
+help test
