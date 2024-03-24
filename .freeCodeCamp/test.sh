@@ -1,7 +1,7 @@
 #!/bin/bash
 # Bingo Number Generator
 echo -e "\n~~ Bingo Number Generator ~~\n"
-NUMBER=$(( RANDOM % 15+46 ))
+NUMBER=$(( RANDOM % 15+61 ))
 
 TEXT="The next number is, "
 
@@ -17,4 +17,6 @@ then
 elif [[ $NUMBER -lt 61 ]]
 then 
    echo $TEXT G:$NUMBER
+else 
+   echo $TEXT O:$NUMBER
 fi
