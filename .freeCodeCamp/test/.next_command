@@ -245,3 +245,5 @@ help [[
 ./fortune.sh
 ./fortune.sh
 [[ hello =~ el ]]
+__vsc_prompt_cmd_original
+[[ 'hello world' =~ 'lo wor' ]]
