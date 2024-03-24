@@ -240,3 +240,4 @@ __vsc_prompt_cmd_original
 ./fortune.sh
 help [[
 [[ hello == hello ]]
+[[ hello == world ]]
