@@ -241,3 +241,6 @@ __vsc_prompt_cmd_original
 help [[
 [[ hello == hello ]]
 [[ hello == world ]]
+./fortune.sh
+./fortune.sh
+./fortune.sh
