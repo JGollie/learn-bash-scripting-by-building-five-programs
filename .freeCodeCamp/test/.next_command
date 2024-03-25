@@ -262,3 +262,6 @@ echo $VAR
 ./fortune.sh
 touch five.sh
 chmod +x five.sh
+chmod +x five.sh
+./questionnaire.sh
+./five.sh
