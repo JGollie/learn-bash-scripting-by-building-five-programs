@@ -265,3 +265,4 @@ chmod +x five.sh
 chmod +x five.sh
 ./questionnaire.sh
 ./five.sh
+__vsc_prompt_cmd_original
