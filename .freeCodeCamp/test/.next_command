@@ -278,7 +278,10 @@ type bash
 type psql
 type ./five.sh
 exit
+<<<<<<< HEAD
 exit
+=======
+>>>>>>> 97c8255caae48e24ee74983480c5c28a9f6bab5f
 builtin unset VSCODE_INJECTION
 [ -z "$VSCODE_SHELL_INTEGRATION" ]
 [ -n "${VSCODE_ENV_REPLACE:-}" ]
